@@ -29,7 +29,7 @@
     "@uiw/react-md-editor": "3.3.7",
     "blitz": "0.38.1",
     "final-form": "4.20.2",
-    "next-remove-imports": "1.0.5",
+    "next-remove-imports": "1.0.12",
     "prisma": "2.25.0",
     "react": "0.0.0-experimental-7ec4c5597",
     "react-dom": "0.0.0-experimental-7ec4c5597",
